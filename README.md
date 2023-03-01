@@ -1,2 +1,3 @@
 # Volatility Modeling Class
-Some assignments for a volatility modeling class at Cornell
+Vix and VXX calulcations
+A Machine Learning Model based on macro asset correlation changes for predicting volatility spikes. Very high R - Squared.
